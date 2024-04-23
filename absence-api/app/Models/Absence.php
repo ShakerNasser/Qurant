@@ -7,5 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Absence extends Model
 {
-    use HasFactory;
+    protected $fillable = [
+        'employee_name', 'start_date', 'end_date', 'reason'
+    ];
 }
