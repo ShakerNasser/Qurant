@@ -29,8 +29,15 @@ Explore and test the API using the provided Postman collection and documentation
 
 The API will be accessible at [http://localhost:8000](http://localhost:8000).
 
+### Images 
+
+![Insomnia](image.png)
+<br></br>
+![Adminer](<image copy.png>)
+
 ### Previous Experience with Laravel
 
 I have prior experience working with Laravel in a project where we developed an IMDb clone. In that project, I implemented features such as user authentication and authorization, including role-based access control (RBAC) to manage user permissions within the application.
 
 [Imdb-clone-github](https://github.com/ShakerNasser/IMDB-Clone-U05.git)
+
