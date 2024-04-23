@@ -30,6 +30,8 @@ The API will be accessible at [http://localhost:8000](http://localhost:8000).
 ![Insomnia](image.png)
 <br></br>
 ![Adminer](<image copy.png>)
+<br></br>
+![Postman example response drodown](<image copy 2.png>)
 
 ### Previous Experience with Laravel
 
