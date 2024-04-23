@@ -21,7 +21,7 @@ This repository contains a sample implementation of a RESTful API using Laravel 
 
 Explore and test the API using the provided Postman collection and documentation:
 
-[Qurant-Sample API Documentation]([https://documenter.getpostman.com/view/34481210/2sA3BrWpSL](https://documenter.getpostman.com/view/34481210/2sA3BrWpSL))
+[Qurant-Sample API Documentation](https://documenter.getpostman.com/view/34481210/2sA3BrWpSL)
 
 The API will be accessible at [http://localhost:8000](http://localhost:8000).
 
