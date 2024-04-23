@@ -9,6 +9,39 @@ This repository contains a sample implementation of a RESTful API using Laravel 
 - MySQL or SQLite database
 - (Docker- devcontainer)
 
+### To install and run this project, follow these steps:
+
+1. Start the development container and navigate to the project directory in the terminal. 
+
+2. Update all dependencies by running the following command:
+
+```bash
+composer update
+```
+3. Rename the .env.example file to .env (create a databse):
+
+```bash
+.env.example .env
+```
+
+4. Generate a unique application key:
+
+```bash
+php artisan key:generate
+```
+
+5. Run database migrations to create database tables:
+
+```bash
+php artisan migrate
+```
+
+6. Start the local development server:
+
+```bash
+php artisan serve
+```
+
 ### Source
 
 - For `api.php`:
