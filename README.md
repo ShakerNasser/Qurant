@@ -2,10 +2,6 @@
 
 This repository contains a sample implementation of a RESTful API using Laravel for managing absence notifications to a payroll system.
 
-### Getting Started
-
-Follow these instructions to set up and run the project locally.
-
 **Prerequisites**
 - PHP
 - Composer
