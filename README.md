@@ -28,3 +28,9 @@ Explore and test the API using the provided Postman collection and documentation
 [Qurant-Sample API Documentation](https://documenter.getpostman.com/view/34481210/2sA3BrWpSL)
 
 The API will be accessible at [http://localhost:8000](http://localhost:8000).
+
+### Previous Experience with Laravel
+
+I have prior experience working with Laravel in a project where we developed an IMDb clone. In that project, I implemented features such as user authentication and authorization, including role-based access control (RBAC) to manage user permissions within the application.
+
+[Imdb-clone-github](https://github.com/ShakerNasser/IMDB-Clone-U05.git)
