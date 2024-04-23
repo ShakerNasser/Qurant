@@ -10,7 +10,8 @@
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
     <div>
         <p>Hello there.</p>
-        <p>Here is your message: <strong>{{ $message }}</strong></p>
+        <p><strong>{{ $message }}</strong> This platform works as API route for Qurant sample work. </p>
+        <p>Shaker Nasser - 2024 </p>
     </div>
     </body>
 </html>
